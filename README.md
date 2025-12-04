@@ -1,4 +1,4 @@
-# ⚙️ Want to Run on your machine? You need extra Data Setup!
+# ⚙️ Running Locally? Requires Data Setup!
 
 ## ⚠️ Prerequisite: Download the Dataset
 
