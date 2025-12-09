@@ -25,7 +25,7 @@ unsupervised-minecraft-aimbot/
 │ ├── cheater.csv
 │ └── legit.csv
 ├── README.md
-└── EDA.ipynb
+└── Minecraft.ipynb
 └── (and more...)
 ```
 
